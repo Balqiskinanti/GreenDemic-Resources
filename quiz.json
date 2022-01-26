@@ -56,12 +56,12 @@
             "correctIndex" : 3
         },{
             "category" : "Easy",
-            "question" : "",
+            "question" : "what is GreenGemic's slogan?",
             "options" : [
-                "",
-                "",
-                "",
-                ""
+                "think green!",
+                "today's wastage is tomorrow's shortage.",
+                "be green in this pandemic",
+                "today's wastage is tomorrow's shortage. think green!"
             ],
             "correctIndex" : 0
         },
